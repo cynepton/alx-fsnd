@@ -92,6 +92,6 @@ Nested Lists
 Some text<br>
 Still same paragraph
 
-Another paragraph
+<b>Another paragraph</b>
 
 <!-- This content will not appear in the rendered Markdown -->
