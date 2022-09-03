@@ -89,7 +89,7 @@ Nested Lists
 
 ### A subsection
 
-Some text
+Some text<br>
 Still same paragraph
 
 Another paragraph
